@@ -63,7 +63,7 @@ header {
   /*Mission Statement */
   #mission {
     display: block;
-    background-image: url('..resources/uzungol-lake-mission-bg.jpeg');
+    background-image: url('../resources/uzungol-lake-mission-bg.jpeg');
     height: 34rem;
     width: 100%;
     background-position: center;
@@ -121,7 +121,7 @@ header {
 
   .business {
     flex: 1;
-    background-color: rgb(160, 234, 230);
+      border: solid 1px rgb(160, 234, 230);
     margin: 1rem;
     width: 100%;
     height: 100%;
