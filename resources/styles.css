@@ -63,7 +63,7 @@ header {
   /*Mission Statement */
   #mission {
     display: block;
-    background-image: url('https://github.com/eatwanderexplore/newnentaiken/blob/5f311b6b7831d285d842ea65024b8abf036825f4/resources/uzungol-lake-mission-bg.jpeg');
+    background-image: url('..resources/uzungol-lake-mission-bg.jpeg');
     height: 34rem;
     width: 100%;
     background-position: center;
