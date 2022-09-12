@@ -63,7 +63,7 @@ header {
   /*Mission Statement */
   #mission {
     display: block;
-    background-image: url('./resources/uzungol-lake-mission-bg.jpeg');
+    background-image: url('../resources/uzungol-lake-mission-bg.jpeg');
     height: 34rem;
     width: 100%;
     background-position: center;
